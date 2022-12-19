@@ -1,5 +1,4 @@
 # Version-Control-Example
-Reference-style: 
 ![alt text][logo]
 
 [logo]: MediumGit.gif "Article 1"
